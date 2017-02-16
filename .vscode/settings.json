@@ -1,0 +1,7 @@
+{
+  "editor.experimentalDecorators": true,
+  "editor.tabCompletion": true,
+  "editor.snippetSuggestions": "inline",
+  "editor.quickSuggestions": true,
+  "typescript.tsdk": "node_modules//typescript//lib"
+}

@@ -1,0 +1,11 @@
+Aby uruchomić projekt potrzebujesz zainstalowanych:
+-node
+
+Aby uruchomić projekt wywołaj komendy:
+-npm install
+-gulp get:css
+-gulp get:js
+-npm start
+
+Aby utworzyć wersję produkcyjną:
+-npm run prod
